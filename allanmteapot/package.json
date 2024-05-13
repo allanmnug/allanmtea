@@ -1,6 +1,6 @@
 {
   "name": "allanmteapot",
-  "version": "2.2.3",
+  "version": "2.2.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
